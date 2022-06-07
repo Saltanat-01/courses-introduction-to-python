@@ -707,7 +707,7 @@ success_msg("Great! You have a profit of around $95; that's pretty awesome indee
 
 ---
 
-## Can Python handle everything?
+## Can Python handle everything? Test staging
 
 ```yaml
 type: MultipleChoiceExercise
@@ -742,46 +742,4 @@ msg2 = "It's perfectly possible to 'multiply strings' in Python..."
 msg3 = "Correct! Because you're not converting `2` to a string with [str()](https://docs.python.org/3/library/functions.html#func-str), this will give an error."
 msg4 = "`True + False` doesn't error out. Feel free to try it in the console to confirm!"
 Ex().has_chosen(3, [msg1, msg2, msg3, msg4])
-```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-key: 941d1a9b7a
-xp: 100
-```
-
-<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
-
-`@instructions`
-<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
-- Instruction 1
-- Instruction 2
-
-`@hint`
-<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
-- This is an example hint.
-- This is an example hint.
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
