@@ -32,7 +32,7 @@ a0487c26210f6b71ea98f917734cea3a
 ## Your First NumPy Array
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 84cab9d170
 lang: python
 xp: 100
@@ -110,7 +110,7 @@ success_msg("Great job!")
 ## Baseball players' height
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: e7e25a89ea
 lang: python
 xp: 100
@@ -207,7 +207,7 @@ success_msg("Nice! In the blink of an eye, `numpy` performs multiplications on m
 ## Baseball player's BMI
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 689fdbc950
 lang: python
 xp: 100
@@ -317,7 +317,7 @@ success_msg("Cool! Time to step up your game!")
 ## Lightweight baseball players
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: ef6add980e
 lang: python
 xp: 100
@@ -480,7 +480,7 @@ Ex().has_chosen(2, [msg1, msg2, msg3, msg4])
 ## Subsetting NumPy Arrays
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: fcb2a9007b
 lang: python
 xp: 100
@@ -679,7 +679,7 @@ success_msg("Great! You're ready to convert the actual MLB data to a 2D `numpy` 
 ## Baseball data in 2D form
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 5df25d0b7b
 lang: python
 xp: 100
@@ -756,7 +756,7 @@ success_msg("Slick! Time to show off some killer features of multi-dimensional `
 ## Subsetting 2D NumPy Arrays
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: aeca4977f0
 lang: python
 xp: 100
@@ -860,7 +860,7 @@ success_msg("This is going well!")
 ## 2D Arithmetic
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 1c2378b677
 lang: python
 xp: 100
@@ -1079,7 +1079,7 @@ success_msg("An average height of 1586 inches, that doesn't sound right, does it
 ## Explore the baseball data
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: '4409948807'
 lang: python
 xp: 100
@@ -1196,7 +1196,7 @@ success_msg("Great! Time to use all of your new data science skills in the last 
 ## Blend it all together
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: e125cad8a5
 lang: python
 xp: 100
