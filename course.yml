@@ -14,3 +14,4 @@ practice_pool_id: 107
 datasets:
   baseball.csv: MLB (baseball)
   fifa.csv: FIFA (soccer)
+runtime_config: minimal
