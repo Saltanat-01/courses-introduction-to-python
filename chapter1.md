@@ -28,7 +28,7 @@ d8fcd4c930027fa4e1c3870c7e7e0ff1
 
 ---
 
-## When to use Python?
+## Why Nuno's Dotfiles?
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -37,7 +37,7 @@ kind: PureMultipleChoice
 xp: 50
 ```
 
-Python is a **flexible** language. For which applications can you use Python?
+Why nuno's dotfiles?
 
 `@hint`
 - Practically any piece of software can be built using Python.
